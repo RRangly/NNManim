@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/3977891868_3142935987_631829896.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/3977891868_612034953_1666280314.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/2852726489_2498815887_4279332172.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/2852726489_1927186340_1139905179.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/2852726489_4262366550_4149358502.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/2852726489_1750771549_4085124475.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/equations/2852726489_3142935987_3869199086.mp4'

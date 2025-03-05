@@ -1,0 +1,64 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/network2/169832d932ec42880878472db108f5e293afa4f4d6564925291f7f0d2a5198a4.mp4",
+      "rev_file": "slides/files/network2/169832d932ec42880878472db108f5e293afa4f4d6564925291f7f0d2a5198a4_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/network2/a9bbf52d1e7425c6385bfafde8e58616c3b5b6bf120da2715777df6e4fc0943a.mp4",
+      "rev_file": "slides/files/network2/a9bbf52d1e7425c6385bfafde8e58616c3b5b6bf120da2715777df6e4fc0943a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/network2/36612776f34313ebf43ea207c1e6ef2234cb56bad29d1a1e5eb5a0f9262519ab.mp4",
+      "rev_file": "slides/files/network2/36612776f34313ebf43ea207c1e6ef2234cb56bad29d1a1e5eb5a0f9262519ab_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/network2/46efba650675a2557f9d312f913973eecadaa5221bf81ae302a2c652698c888a.mp4",
+      "rev_file": "slides/files/network2/46efba650675a2557f9d312f913973eecadaa5221bf81ae302a2c652698c888a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/network2/bf16462c48a4e3bba8478a208c88869c41604946555175d343b718051bd578ac.mp4",
+      "rev_file": "slides/files/network2/bf16462c48a4e3bba8478a208c88869c41604946555175d343b718051bd578ac_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

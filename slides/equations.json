@@ -1,0 +1,20 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/equations/466c8ffc9b4fa96279dee4189ca4a0fa48b66e09c823b1fd116cd8873f0a55c8.mp4",
+      "rev_file": "slides/files/equations/466c8ffc9b4fa96279dee4189ca4a0fa48b66e09c823b1fd116cd8873f0a55c8_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

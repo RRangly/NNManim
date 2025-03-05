@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/109763980_315653485_2162261398.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_176673297_4245893915.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_315653485_4168620963.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_1176649653_3469879286.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_1102700484_3139093130.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_314095738_256570819.mp4'
+file 'file:/Users/rangly/Desktop/NNManim/media/videos/main/1080p60/partial_movie_files/gradientDescent/3377723569_315653485_2308376059.mp4'

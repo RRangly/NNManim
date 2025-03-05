@@ -1,7 +1,10 @@
 from manim import *
 from manim_slides import Slide
+import numpy as np
 import pandas as pd
 import math
+
+np.random.seed(42)
 class beginning(Slide):
     def construct(self):
         # Display MNIST Number
@@ -125,3 +128,42 @@ class beginning(Slide):
         self.next_slide()
 
         # Example
+
+        img = ImageMobject("7img.png").scale(1).move_to([-5,0,0])
+        img.z_index = -1
+        self.play(FadeIn(img))
+        self.wait(0.2)
+        self.next_slide()
+
+        # forward propogation
+        squares = VGroup()
+        transformations2 = []
+        neuronlit = np.random.rand(16)
+        for i in range(inputLayerSize):
+            square = Square(side_length=(neuronSize*2), color = WHITE, fill_opacity = 1, stroke_width=0).move_to(img.get_center())
+            squares.add(square)
+            trans = Transform(square, inputLayer[i].copy().set_fill(color=GREEN,opacity=neuronlit[i]))
+            transformations2.append(trans)
+        self.add(squares)
+        self.play(transformations2)
+
+        act1 = VGroup()
+        hlLit1 = np.random.rand(12)
+        for i in range(hiddenLayerSize):
+            act1.add(hiddenlayer1[i].copy().set_fill(color=GREEN,opacity=hlLit1[i]))
+        self.play(FadeIn(act1))
+
+        act2 = VGroup()
+        hlLit2 = np.random.rand(12)
+        for i in range(hiddenLayerSize):
+            act2.add(hiddenlayer2[i].copy().set_fill(color=GREEN,opacity=hlLit2[i]))
+        self.play(FadeIn(act2))
+
+        act3 = VGroup()
+        hlLit3 = np.random.rand(12)
+        for i in range(hiddenLayerSize):
+            act3.add(hiddenlayer3[i].copy().set_fill(color=GREEN,opacity=hlLit3[i]))
+        self.play(FadeIn(act3))
+
+        act4 = outputLayer[6].copy().set_fill(color=GREEN,opacity=1)
+        self.play(FadeIn(act4))
